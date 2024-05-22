@@ -19,7 +19,7 @@ Welcome to the GroSharies repository! GroSharies is a smart application designed
 Our multidisciplinary team consists of six members from various fields: Electrical Engineering, Biomedical Engineering, Industrial Design, Psychology & Technology, and Computer Science. This diverse background enabled a comprehensive approach to the project. Responsibilities were divided based on individual strengths, ensuring effective development of the app.
 
 ## Design Goal
-The primary goal of GroSharies is to address the issue of food waste by creating an application that tracks food items, notifies users of expiring products, and facilitates sharing of leftovers within a community. This app is intended for household use, aiming to make sustainable behavior easy and accessible.
+The primary goal of GroSharies is to address the issue of food waste by creating an application that tracks food items, notifies users of expiring products, and facilitates sharing of leftovers within a community. This app is intended for household use, aiming to make sustainable behavior easy and accessible. **The app can be found in this [link](https://grosharies.glideapp.io/).**
 
 ## Functional Design and Solutions
 Using the MoSCoW prioritization method, we identified key functions for GroSharies:
@@ -73,7 +73,7 @@ GroSharies successfully meets its design goals of being innovative, user-friendl
 - UNEP Food Waste Index Report 2021. (z.d.). [UNEP](https://www.unep.org/resources/report/unep-food-waste-index-report-2021).
 
 ## Appendices
-Refer to the attached report for detailed appendices including receipts and additional data.
+
 
 ---
 
